@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (not released)
+## 0.1.0 (2026-11-13)
 
 First version. Alerts on any reading of Rigbay's metrics bus: a rule says "this reading is at or above (or at or below) X for N seconds", and when that
 happens Watch raises one Warning notification (a tray balloon, because Rigbay runs elevated). **Read only**: it subscribes to readings, keeps its rules in
